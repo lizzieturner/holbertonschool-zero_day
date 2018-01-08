@@ -1,0 +1,1 @@
+The end goal of project OxOO.Vagrant is to get comfortable running Ubuntu using Vagrant boxes. Boxes are used in Vagrant to easily clone a virtual machine without having to code the vm from scratch. By using the Ubuntu box Trusty64, I can use SSH to access my virtual machine and run Ubuntu. 
